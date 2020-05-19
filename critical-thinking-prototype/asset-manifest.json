@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/critical-thinking-prototype/static/css/main.4b150d28.chunk.css",
-    "main.js": "/critical-thinking-prototype/static/js/main.106cc306.chunk.js",
-    "main.js.map": "/critical-thinking-prototype/static/js/main.106cc306.chunk.js.map",
-    "runtime-main.js": "/critical-thinking-prototype/static/js/runtime-main.cd0777f8.js",
-    "runtime-main.js.map": "/critical-thinking-prototype/static/js/runtime-main.cd0777f8.js.map",
-    "static/css/2.e479632b.chunk.css": "/critical-thinking-prototype/static/css/2.e479632b.chunk.css",
-    "static/js/2.47a33c66.chunk.js": "/critical-thinking-prototype/static/js/2.47a33c66.chunk.js",
-    "static/js/2.47a33c66.chunk.js.map": "/critical-thinking-prototype/static/js/2.47a33c66.chunk.js.map",
-    "index.html": "/critical-thinking-prototype/index.html",
-    "precache-manifest.8bec2a2acb00db78ebb320f16ee64671.js": "/critical-thinking-prototype/precache-manifest.8bec2a2acb00db78ebb320f16ee64671.js",
-    "service-worker.js": "/critical-thinking-prototype/service-worker.js",
-    "static/css/2.e479632b.chunk.css.map": "/critical-thinking-prototype/static/css/2.e479632b.chunk.css.map",
-    "static/css/main.4b150d28.chunk.css.map": "/critical-thinking-prototype/static/css/main.4b150d28.chunk.css.map",
-    "static/js/2.47a33c66.chunk.js.LICENSE.txt": "/critical-thinking-prototype/static/js/2.47a33c66.chunk.js.LICENSE.txt",
-    "static/media/combating-confirmation-bias.mp4": "/critical-thinking-prototype/static/media/combating-confirmation-bias.96625332.mp4",
-    "static/media/poster-combating-confirmation-bias.jpg": "/critical-thinking-prototype/static/media/poster-combating-confirmation-bias.3c8fc0e9.jpg",
-    "static/media/index.css": "/critical-thinking-prototype/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/markpeneder.github.io/critical-thinking-prototype/static/css/main.4b150d28.chunk.css",
+    "main.js": "/markpeneder.github.io/critical-thinking-prototype/static/js/main.636c7e24.chunk.js",
+    "main.js.map": "/markpeneder.github.io/critical-thinking-prototype/static/js/main.636c7e24.chunk.js.map",
+    "runtime-main.js": "/markpeneder.github.io/critical-thinking-prototype/static/js/runtime-main.15599e0c.js",
+    "runtime-main.js.map": "/markpeneder.github.io/critical-thinking-prototype/static/js/runtime-main.15599e0c.js.map",
+    "static/css/2.62a07c75.chunk.css": "/markpeneder.github.io/critical-thinking-prototype/static/css/2.62a07c75.chunk.css",
+    "static/js/2.47a33c66.chunk.js": "/markpeneder.github.io/critical-thinking-prototype/static/js/2.47a33c66.chunk.js",
+    "static/js/2.47a33c66.chunk.js.map": "/markpeneder.github.io/critical-thinking-prototype/static/js/2.47a33c66.chunk.js.map",
+    "index.html": "/markpeneder.github.io/critical-thinking-prototype/index.html",
+    "precache-manifest.72d8d260491282e6b1c6045f85f8c04f.js": "/markpeneder.github.io/critical-thinking-prototype/precache-manifest.72d8d260491282e6b1c6045f85f8c04f.js",
+    "service-worker.js": "/markpeneder.github.io/critical-thinking-prototype/service-worker.js",
+    "static/css/2.62a07c75.chunk.css.map": "/markpeneder.github.io/critical-thinking-prototype/static/css/2.62a07c75.chunk.css.map",
+    "static/css/main.4b150d28.chunk.css.map": "/markpeneder.github.io/critical-thinking-prototype/static/css/main.4b150d28.chunk.css.map",
+    "static/js/2.47a33c66.chunk.js.LICENSE.txt": "/markpeneder.github.io/critical-thinking-prototype/static/js/2.47a33c66.chunk.js.LICENSE.txt",
+    "static/media/combating-confirmation-bias.mp4": "/markpeneder.github.io/critical-thinking-prototype/static/media/combating-confirmation-bias.96625332.mp4",
+    "static/media/poster-combating-confirmation-bias.jpg": "/markpeneder.github.io/critical-thinking-prototype/static/media/poster-combating-confirmation-bias.3c8fc0e9.jpg",
+    "static/media/index.css": "/markpeneder.github.io/critical-thinking-prototype/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd0777f8.js",
-    "static/css/2.e479632b.chunk.css",
+    "static/js/runtime-main.15599e0c.js",
+    "static/css/2.62a07c75.chunk.css",
     "static/js/2.47a33c66.chunk.js",
     "static/css/main.4b150d28.chunk.css",
-    "static/js/main.106cc306.chunk.js"
+    "static/js/main.636c7e24.chunk.js"
   ]
 }
